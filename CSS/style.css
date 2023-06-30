@@ -1,0 +1,15 @@
+
+body{
+    padding: 10px 0;
+}
+
+.separator{
+    margin: 10px 0;
+    border-top: 1px solid grey;
+}
+
+img{
+    width: 50px;
+}
+
+
